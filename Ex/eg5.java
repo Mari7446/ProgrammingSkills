@@ -1,5 +1,8 @@
+package Ex;
+
 import java.util.Scanner;
-public class pract5{
+
+public class eg5 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
@@ -17,4 +20,4 @@ public class pract5{
                 System.out.println("\n"+n+" is not a prime number.");
             }
         }
-    }
+}

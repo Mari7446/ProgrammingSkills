@@ -1,5 +1,8 @@
+package Ex;
+
 import java.util.Scanner;
-public class pract4 {
+
+public class eg4 {
     public static void main(String[] args){
        Scanner sc = new Scanner(System.in);
        System.out.println("Enter a number to be reversed:");

@@ -1,12 +1,16 @@
+package Ex;
+
 import java.util.Scanner;
-public class pract2 {
+
+public class eg3 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
         int n = sc.nextInt();
-        for(int i =1; i<=10; i++){
-            int p = n*i;
-            System.out.println(n+"x"+i+"="+p);
+        int p=1;
+        for(int i =1; i<=n; i++){
+            p=p*i;
         }
+        System.out.println("The factorial of "+n+" is "+p);
     }
 }
