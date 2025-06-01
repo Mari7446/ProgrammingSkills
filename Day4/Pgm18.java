@@ -1,4 +1,4 @@
-package Day3;
+package Day4;
 
 public class Pgm18 {
     public static void main(String[] args){
