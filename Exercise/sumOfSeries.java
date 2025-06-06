@@ -2,7 +2,7 @@ package Exercise;
 
 import java.util.Scanner;
 
-public class eg1 {
+public class sumOfSeries {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");

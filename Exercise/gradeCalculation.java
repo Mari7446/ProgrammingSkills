@@ -1,7 +1,7 @@
 package Exercise;
 
 import java.util.Scanner;
-public class eg20 {
+public class gradeCalculation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -1,6 +1,6 @@
 package Exercise;
 
-public class eg8 {
+public class invertedTriangle {
     public static void main(String[] args) {
         for(int i=1; i<=4; i++){
             

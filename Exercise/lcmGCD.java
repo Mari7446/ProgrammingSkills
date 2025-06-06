@@ -1,7 +1,7 @@
 package Exercise;
 
 import java.util.Scanner;
-public class eg13 {
+public class lcmGCD {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n1=sc.nextInt(), n2=sc.nextInt(), gcd=1, lcm=0, min=0;

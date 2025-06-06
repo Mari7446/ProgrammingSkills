@@ -1,7 +1,7 @@
 package Exercise;
 
 import java.util.Scanner;
-public class eg18 {
+public class arithmeticOperations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n1 = sc.nextInt(), n2 = sc.nextInt();

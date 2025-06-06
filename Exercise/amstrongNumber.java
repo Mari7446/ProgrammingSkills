@@ -1,7 +1,7 @@
 package Exercise;
 
 import java.util.Scanner;
-public class eg12 {
+public class amstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n= sc.nextInt(),t=n,temp = n,count=0,sum=0;

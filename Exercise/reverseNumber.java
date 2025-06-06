@@ -2,7 +2,7 @@ package Exercise;
 
 import java.util.Scanner;
 
-public class eg4 {
+public class reverseNumber {
     public static void main(String[] args){
        Scanner sc = new Scanner(System.in);
        System.out.println("Enter a number to be reversed:");

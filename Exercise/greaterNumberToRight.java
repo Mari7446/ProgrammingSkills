@@ -1,7 +1,7 @@
 package Exercise;
 
 /*Find all elements that are greater than all elements to their right */
-public class eg23 {
+public class greaterNumberToRight {
     public static void main(String[] args) {
         boolean flag=false;
         int [] a = {16, 17, 4, 3, 5, 2};
